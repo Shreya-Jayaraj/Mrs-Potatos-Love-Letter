@@ -11,7 +11,6 @@ This project is a submission for the Code-A-Gift competition, a coding challenge
 ## Technologies Used
 - HTML
 - CSS (including animations)
-- JavaScript
 
 ## Installation
 1. Clone the repository: `git clone [repository URL]`
